@@ -1,5 +1,5 @@
 {
-    "name": "electriccitizen/sparky_ai_ckeditor,
+    "name": "electriccitizen/sparky_ai_ckeditor",
     "description": "Install and configure base requirements for AI ckeditor integration.",
     "type": "drupal-recipe",    
     "require": {
