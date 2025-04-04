@@ -1,0 +1,9 @@
+uuid: f1148b4e-a6ad-439a-ba64-fa18e1a06fca
+langcode: en
+status: true
+dependencies: {  }
+name: AI Tone
+vid: ai_tone
+description: 'A list of appropriate tones for AI text generation.'
+weight: 0
+new_revision: false

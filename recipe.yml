@@ -6,5 +6,18 @@ install:
   - ai
   - ai_ckeditor
 config:
+  strict: false
   import:
     ai_ckeditor: '*'
+  actions:
+    editor.editor.basic_html:
+      addItemToToolbar:
+        item_name: aickeditor
+        # Specific zero-based position in the toolbar.
+        # If not specified, it appends to the end.
+        position: 100
+        # If there's already something at that position, replace it.
+        # For example, replace the Image button with Media library. By default,
+        # existing items are left where they are, and the new item is inserted
+        # right before them.
+        replace: false

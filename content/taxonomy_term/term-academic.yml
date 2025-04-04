@@ -1,0 +1,31 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: 7538535f-84be-4152-b849-c28a305548d3
+  bundle: ai_tone
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: Academic
+  description:
+    -
+      value: '<p>Respond as a professional with text that is formal, well-researched, and objective.</p>'
+      format: basic_html
+  weight:
+    -
+      value: 0
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0

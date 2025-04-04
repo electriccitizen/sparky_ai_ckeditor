@@ -1,0 +1,11 @@
+uuid: 69b7652e-452f-4831-983c-0ff460e3ccc5
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.ai_tone
+id: taxonomy_term.ai_tone
+target_entity_type_id: taxonomy_term
+target_bundle: ai_tone
+default_langcode: site_default
+language_alterable: false
