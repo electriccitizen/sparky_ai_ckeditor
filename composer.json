@@ -1,6 +1,6 @@
 {
-    "name": "electriccitizen/sparky_ai_media_image",
-    "description": "Install and configure base requirements for AI generate media images.",
+    "name": "electriccitizen/sparky_ai_ckeditor,
+    "description": "Install and configure base requirements for AI ckeditor integration.",
     "type": "drupal-recipe",    
     "require": {
         "drupal/ai_ckdeditor": "^1"
