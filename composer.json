@@ -3,6 +3,6 @@
     "description": "Install and configure base requirements for AI ckeditor integration.",
     "type": "drupal-recipe",    
     "require": {
-        "drupal/ai_ckdeditor": "^1"
+        "drupal/ai": "^1"
     }
 }
