@@ -1,0 +1,10 @@
+name: 'Sparky AI CKEditor'
+description: 'Install and configure base requirements for AI CKEditor integration.'
+type: 'Site'
+
+install:
+  - ai
+  - ai_ckeditor
+config:
+  import:
+    ai_ckeditor: '*'
