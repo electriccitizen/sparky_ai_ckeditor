@@ -1,6 +1,6 @@
 # Sparky AI (CKEDITOR)
 
-This simple recipe installs the base AI ckeditor integration on top of the Sparky AI base module.
+This simple recipe installs the base AI ckeditor integration on top of the [Sparky AI](https://github.com/electriccitizen/sparky_ai) base module.
 
 ## What it does
 
