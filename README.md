@@ -14,6 +14,8 @@ This simple recipe installs the base AI ckeditor integration on top of the [Spar
 
 There are not yet any working Config Actions to configure the AI Assistant plugin. So for now, you'll have to do it manually for each text format. 
 
+* Permissions: manually update permissions for the roles who are allowed to have AI generated alt text (typically all content editors and managers.)
+
 For each text format where you want the AI Assistant enabled, add the recommended AI Tools under CKEditor 5 plugins.
 
 ### Recommended configuration: ###
@@ -54,9 +56,6 @@ For each text format where you want the AI Assistant enabled, add the recommende
 
 
 
-
-
-* Permissions: manually update permissions for the roles who are allowed to have AI generated alt text (typically all content editors and managers.)
 
 
 
